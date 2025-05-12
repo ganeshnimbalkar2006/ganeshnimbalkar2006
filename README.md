@@ -1,10 +1,6 @@
 # 👋 Hey there! I'm Ganesh Nimbalkar.
 
-## 🧠 About Me
-🌱 I’m a BCA student passionate about coding and tech.  
-💡 I like building creative front-ends and solving Real world problem using my developmet skill.  
-📧 Reach me at nimbalkarganesh2006@gmail.com  
-📄 Check out my [Resume](#) for more info!
+
 
 ---
 
