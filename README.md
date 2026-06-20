@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;My area of interest are Full Stack Web Development, Python programming , Data engineering.\
 ✉️ &nbsp;You can shoot me an email at nimbalkarganesh2006@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://github.com/ganeshnimbalkar2006/Resume/blob/main/Ganesh_Nimbalkar_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
+
 
 ### 🛠 &nbsp;Tech Stack
 
